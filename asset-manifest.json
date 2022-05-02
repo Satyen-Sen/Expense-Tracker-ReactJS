@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Satyen-Sen/Expense-tracker.git/static/css/main.f5f7f838.css",
+    "main.js": "/Satyen-Sen/Expense-tracker.git/static/js/main.89b91e24.js",
+    "index.html": "/Satyen-Sen/Expense-tracker.git/index.html",
+    "main.f5f7f838.css.map": "/Satyen-Sen/Expense-tracker.git/static/css/main.f5f7f838.css.map",
+    "main.89b91e24.js.map": "/Satyen-Sen/Expense-tracker.git/static/js/main.89b91e24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5f7f838.css",
+    "static/js/main.89b91e24.js"
+  ]
+}
